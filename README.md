@@ -1,8 +1,9 @@
 # Hello there ΩΩΩ
 
-### Language!
+### Tools and Langs!
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 
 ### Stat!
 
