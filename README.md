@@ -1,6 +1,6 @@
-### Hello there ΩΩΩ
+# Hello there ΩΩΩ
 
-# Language
+### Language
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
