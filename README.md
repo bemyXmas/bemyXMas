@@ -1,7 +1,7 @@
 # Hello there ΩΩΩ
 
 ## Ma fav 
-<img src="https://media.giphy.com/media/VbtFT6CJLNTyLNK7zn/giphy.gif" width="10%" height="auto" />
+<img src="https://media.giphy.com/media/VbtFT6CJLNTyLNK7zn/giphy.gif" width="100%" height="auto" />
 
 
 ### Tools and Langs!
