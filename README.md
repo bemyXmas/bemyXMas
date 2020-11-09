@@ -1,7 +1,7 @@
 # Hello there ΩΩΩ
 
-## Me 
-<img src="https://giphy.com/gifs/twiceofficial-kpop-twice-signal-VbtFT6CJLNTyLNK7zn" width="10%" height="auto" />
+## Ma fav 
+<img src="https://media.giphy.com/media/VbtFT6CJLNTyLNK7zn/giphy.gif" width="10%" height="auto" />
 
 
 ### Tools and Langs!
