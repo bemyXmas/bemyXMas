@@ -6,4 +6,5 @@
 
 ### Stat!
 
-[![Pooh's github stats](https://github-readme-stats.vercel.app/api?username=SIrapopKunjiak&theme=algolia)](https://github.com/SIrapopKunjiak)
+[![Pooh's github stats](https://github-readme-stats.vercel.app/api?username=SIrapopKunjiak&theme=algolia)](https://github.com/SIrapopKunjiak)</br>   
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=SIrapopKunjiak&theme=algolia&layout=compact)
