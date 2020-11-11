@@ -1,4 +1,4 @@
-### Hello there!!!
+### ( つ•̀ω•́)つ・・*:）Hello there ・:・゜:==≡≡Σ=͟͟͞͞(✡)`Д´
 I'm studying in software and knowledge engineering at KU now.
 
 ### Meet ma GF!
