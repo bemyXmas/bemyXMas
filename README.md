@@ -3,7 +3,7 @@
 
 ### Meet ma GF!
 <img src="https://media.giphy.com/media/gJnKkHxaHifu1uQjvz/giphy.gif" width="35%" height="auto" />
-
+Myoui Mina from TWICE
 
 ### Tools and Langs
 
