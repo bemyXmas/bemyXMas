@@ -1,5 +1,5 @@
 ### ( つ•̀ω•́)つ・・*:）Hello there ・:・゜:==≡≡Σ=͟͟͞͞(✡)`Д´
-I'm studying in software and knowledge engineering at KU now.
+╰༼.◕ヮ◕.༽つ¤=[]————I'm studying in software and knowledge engineering at KU now.
 
 ### Meet ma GF!
 <img src="https://media.giphy.com/media/gJnKkHxaHifu1uQjvz/giphy.gif" width="35%" height="auto" />
