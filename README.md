@@ -2,7 +2,8 @@
 ╰༼.◕ヮ◕.༽つ¤=[]————I'm studying in software and knowledge engineering at KU now.
 
 ### Meet ma GF!
-<img src="https://media.giphy.com/media/gJnKkHxaHifu1uQjvz/giphy.gif" width="25%" height="auto" /><img src="https://media.giphy.com/media/hqm43RkgSjWin0KkO3/giphy.gif" width="25%" height="auto" /><img src="https://media.giphy.com/media/H21htdPa1h99C/giphy.gif" width="25%" height="auto" />
+<img src="https://media.giphy.com/media/gJnKkHxaHifu1uQjvz/giphy.gif" width="25%" height="auto" /><img src="https://media.giphy.com/media/hqm43RkgSjWin0KkO3/giphy.gif" width="25%" height="auto" /><img src="https://media.giphy.com/media/SYcmpSJSLhL40PQZSS/giphy.gif" width="25%" height="auto" />
+
 Myoui Mina from TWICE ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ
 
 ### Tools and Langs
