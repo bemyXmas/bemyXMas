@@ -1,6 +1,6 @@
 ### ( つ•̀ω•́)つ・・*:）Hello there ・:・゜:==≡≡Σ=͟͟͞͞(✡)`Д´
-- ╰༼.◕ヮ◕.༽つ¤=[]————Now I'm studying in software and knowledge engineering at KU.
-</br>  
+- ╰༼.◕ヮ◕.༽つ¤=[]————Now I'm studying in software and knowledge engineering at KU. </br>  
+\
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 ### Meet ma BEST GIRL!
