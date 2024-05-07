@@ -1,12 +1,8 @@
-### ( つ•̀ω•́)つ・・*:）Hello there ・:・゜:==≡≡Σ=͟͟͞͞(✡)`Д´
-- ╰༼.◕ヮ◕.༽つ¤=[]————Now I'm studying in software and knowledge engineering at KU. </br>  
+Hello there 
 \
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
-### Meet ma BEST GIRL!
 <img src="https://media.giphy.com/media/gJnKkHxaHifu1uQjvz/giphy.gif" width="25%" height="auto" /><img src="https://media.giphy.com/media/hqm43RkgSjWin0KkO3/giphy.gif" width="25%" height="35%" /><img src="https://media.giphy.com/media/SYcmpSJSLhL40PQZSS/giphy.gif" width="25%" height="auto" />
-
-Myoui Mina from TWICE ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ
 
 ### Tools and Langs
 
